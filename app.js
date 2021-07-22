@@ -64,7 +64,7 @@ app.route("/articles")
   });
 
 });
-//Below for a sepcific article
+//Below for a spcific article
 app.route("/articles/:articleTitle")
 
 
