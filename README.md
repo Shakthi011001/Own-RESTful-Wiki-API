@@ -25,8 +25,6 @@ app.use(bodyParser.urlencoded({
 }));
 app.use(express.static("public"));
 
-//TODO
-
 app.listen(3000, function() {
   console.log("Server started on port 3000");
 });
