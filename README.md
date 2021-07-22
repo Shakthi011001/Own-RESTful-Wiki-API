@@ -6,7 +6,7 @@
   <li>Use of Express js</li>
   </ul>
 <h2> Example Documents <h2>
-  <code>
+  ```
     {
     "_id" : ObjectId("5c139771d79ac8eac11e754a"),
     "title" : "API",
@@ -26,7 +26,8 @@
     "title" : "DOM",
     "content" : "The Document Object Model is like an API for interacting with our HTML"
 }
-  </code>
+  ```
+
   <h2> Server Starting Code </h2>
   <code>
     //jshint esversion:6
